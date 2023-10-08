@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, I am Kumud 😊
 
-<!--
-**kumud142k/kumud142k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a Data Scientist (Transitioning, Non-IT ➡️ IT Domain)
 
-Here are some ideas to get you started:
+### A keen Learner 📚, Data Enthusiast &  Tech Explorer 🚩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Currently located in Noida(India)
+- 📫 How to reach me: [kumud142k@yahoo.in](mailto:kumud142k@yahoo.in) 
+- ☕ I'm currently working at [Buddy4Study](https://www.buddy4study.com/)
+  
+- 🔭 I’m currently working on NLP 
+- 🌱 I’m currently learning Python OOPs and advanced concepts 
+- 👯 I’m looking to collaborate on Kaggle competitions based on ML algorithms
+  
+- 💬 Ask me about Data, SQL, Statistics in Data Science, ML algorithms
+  
+- ⚡ Fun fact: You don't need to be a Programmer to Understand Data & AI concepts
+
+<a href="https://www.linkedin.com/in/kumud-kumar-b757a8228/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
