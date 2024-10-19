@@ -1,6 +1,6 @@
 # Hi there 👋, I am Kumud 😊
 
-## I am a Data Scientist (Transitioning, Non-IT ➡️ IT Domain)
+## I am a Data Analyst (Transitioning, Non-IT ➡️ IT Domain)
 
 ### A keen Learner 📚, Data Enthusiast &  Tech Explorer 🚩
 
