@@ -5,10 +5,10 @@
 ### A keen Learner 📚, Data Enthusiast &  Tech Explorer 🚩
 
 - 🌍 Currently located in Noida(India)
-- 📫 How to reach me: [kumud142k@yahoo.in](mailto:kumud142k@yahoo.in) 
+- 📫 How to reach me: [ikumud142@gmail.com](mailto:ikumud142@gmail.com) 
 - ☕ I'm currently working at [Buddy4Study](https://www.buddy4study.com/)
   
-- 🔭 I’m currently working on NLP 
+- 🔭 I’m currently working on AI, ML
 - 🌱 I’m currently learning Python OOPs and advanced concepts 
 - 👯 I’m looking to collaborate on Kaggle competitions based on ML algorithms
   
